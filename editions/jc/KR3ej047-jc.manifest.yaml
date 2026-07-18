@@ -24,12 +24,11 @@ assets:
   - {seq: 4, filename: KR3ej047_004-jc.yaml, hash: 'sha256:d498822dbc306a5207719dd8ac0d4cc0d125a223d6e79b8c6a5b91c07fedfd51'}
   - {seq: 0, filename: KR3ej047_000-jc.yaml, hash: 'sha256:576a49632ffb55482a6bdc1f282d30c57984bebd7463d86be021288f8151cc43'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej047_000-jc.markers.yaml, hash: 'sha256:415624d00005aa93d3284c5e3935cfb19f09d6428a30d751b121c9fa74b5afbf'}
-  - {seq: 1, role: markers, filename: assets/KR3ej047_001-jc.markers.yaml, hash: 'sha256:714098e795c909f966a36ab24f0ced83d6e1473d99cbee26e3925af58631421d'}
-  - {seq: 2, role: markers, filename: assets/KR3ej047_002-jc.markers.yaml, hash: 'sha256:0a6642c7099b053fbb3bd2def8242a23efec0492af09129b886fbd3c6d921827'}
-  - {seq: 3, role: markers, filename: assets/KR3ej047_003-jc.markers.yaml, hash: 'sha256:5fea94ec213683ad4360b797659231c93244ecbbe03906cc7296e74da4f00de8'}
-  - {seq: 4, role: markers, filename: assets/KR3ej047_004-jc.markers.yaml, hash: 'sha256:14cf3c1fdc680d91fb9700355af457cc56e403b986a87eff05490559bc787d1a'}
-  - {seq: 0, role: markers, filename: assets/KR3ej047_000-jc.markers.yaml, hash: 'sha256:415624d00005aa93d3284c5e3935cfb19f09d6428a30d751b121c9fa74b5afbf'}
+  - {seq: 0, role: markers, filename: assets/KR3ej047_000-jc.markers.yaml, hash: 'sha256:a9af10a8c81d1a45a5f94934e1fdaa5826ac04773af4dd6647d147f71a4c1d95'}
+  - {seq: 1, role: markers, filename: assets/KR3ej047_001-jc.markers.yaml, hash: 'sha256:95afabf432e8033f317127a05fbe3870e93dcf48380147d6429461ac8ab4225a'}
+  - {seq: 2, role: markers, filename: assets/KR3ej047_002-jc.markers.yaml, hash: 'sha256:7d2a989f44199bc08290963522961b839f32ff5414622b0ff18bfdd4d022f9a5'}
+  - {seq: 3, role: markers, filename: assets/KR3ej047_003-jc.markers.yaml, hash: 'sha256:d691e3cd6cb726af1a8bcc9f49539e34f45dd3ea3c4b98965b23a41a83e98e3b'}
+  - {seq: 4, role: markers, filename: assets/KR3ej047_004-jc.markers.yaml, hash: 'sha256:72adaac522882d27c202b9a51e82390ed8c0a03c84f4c0bf351889b0304f59a7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1351,4 +1350,4 @@ table_of_contents:
   label: 麻症補論
   type: section
   level: 2
-hash: sha256:2ec17b96120916e3dc0b55a1cd9e3c55224fc36570921753450b0770e7afacd8
+hash: sha256:9649596f2e4bc9821f37a46f8cf659058d40ad20b62b011658d57b11c29eafb5
